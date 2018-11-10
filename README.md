@@ -1,2 +1,2 @@
 # demo
-This is sample repo
+This is sample maven project repo
