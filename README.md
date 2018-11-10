@@ -1,2 +1,3 @@
 # demo
-This is sample maven project repo
+This is sample project for CI Demo 
+Nov 10
